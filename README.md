@@ -4,9 +4,6 @@
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![discordpy](https://img.shields.io/badge/-discordpy-black?style=for-the-badge)
-![aiogram](https://img.shields.io/badge/-aiogram-black?style=for-the-badge)
-
 
 #### Follow me
 [![vk](https://img.shields.io/badge/-Vk-black?style=for-the-badge&logo=Vk)](https://vk.com/ne_jok)
